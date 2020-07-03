@@ -1,5 +1,5 @@
 # PythonClassicGames
-Juegos Clasicos realizados en Python, utiliando tkinter o pygame
+Juegos Clasicos realizados en Python, utilizando tkinter o pygame
 
 Los archivos del repositorio contienen lo siguiente:
 
