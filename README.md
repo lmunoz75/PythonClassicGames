@@ -12,5 +12,5 @@ El juego clasico de Snake utilizando la librería tkinter
 ## snake_v3.py
 El juego clasico de Snake utilizando la libreria tkinter y controlado con un Joystick en Arduino (editar el puerto COM en la clase SnakeGame) con la siguiente configuracion:
 
-  A1 -> Eje X
-  A2 -> Eje Y
+* A1 -> Eje X
+* A2 -> Eje Y
