@@ -14,3 +14,6 @@ El juego clasico de Snake utilizando la libreria tkinter y controlado con un Joy
 
 * A1 -> Eje X
 * A2 -> Eje Y
+
+## code.py
+Codigo del Joystick Controler en RaspberryPi Pico
